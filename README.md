@@ -1,1 +1,1 @@
-# TriviaGame
+https://seunghoonh.github.io/TriviaGame/

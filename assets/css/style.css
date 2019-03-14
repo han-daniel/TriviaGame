@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body {
+    font-family: 'Indie Flower', cursive;
+    background-image: url("../images/pug.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+  }
+
+  .jumbotron{
+      background: rgba(0, 0, 0, 0);
+      color: white;
+  }
+
+  h1{
+      text-align: center;
+      height: 40px;
+      margin: 15px 15px 15px 15px;
+  }
+
+  p{
+    text-align: center;
+    font-family: 'Indie Flower'; 
+    padding-top: 10px;
+  }
+.radio-inline{
+    font-size: 20px;
+}
+
+#timeRemaining, h2{
+    font-size: 55px;
+    color:  white;
+    margin-bottom: 30px;
+}
+
+#formQuiz, #quizResults{
+    font-size: 30px;
+    color:  white;
+    background: rgba(0, 0, 0, 0);
+}
+
+#submitQuiz, #startGame{
+    font-size: 20px;
+    padding: 20px 60px 20px 60px;
+    margin: 10px 0px 10px 0px;
+    color: white;
+    background: rgba(28, 189, 28, 0.4);
+}
+
+.mark, mark {
+    padding: .2em;
+    background: rgba(182, 27, 27, 0.2);
+    color: white;
+
+}
